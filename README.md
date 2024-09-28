@@ -9,3 +9,6 @@
  ```
 pip install curvv
  ```
+
+# Acknowledgements
++ [W3Schools](https://www.w3schools.com/)
